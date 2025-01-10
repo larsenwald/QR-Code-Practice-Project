@@ -18,8 +18,8 @@ images/Screenshot 2025-01-08 at 21-57-05 Frontend Mentor QR code component.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-card-using-html-and-css-sggh8nrQql)
-- Live Site URL: [Add live site URL here](https://larsenwald.github.io/QR-Code-Practice-Project-Frontend-Mentor/)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-card-using-html-and-css-sggh8nrQql)
+- [Live Site Url](https://larsenwald.github.io/QR-Code-Practice-Project/)
 
 ## My process
 
